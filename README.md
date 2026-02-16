@@ -47,7 +47,7 @@ This allows users to consider environmental conditions before planning cultivati
 
 * Owner details and contact option
 
-Users can browse agricultural land and directly connect with landowners.
+* Users can browse agricultural land and directly connect with landowners.
 
 4. Tools and Machinery Rental
 
@@ -103,11 +103,3 @@ Planned Technical Stack
 3. Database: PostgreSQL or MongoDB
 4. APIs: Weather API, geolocation services
 5. Future scope: Crop recommendation and yield prediction models
-
-
-Deployment to cloud platform
-
-Current Status
-
-UI/UX Prototype Completed
-Application development pending
