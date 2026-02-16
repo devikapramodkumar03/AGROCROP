@@ -15,125 +15,95 @@ The prototype demonstrates complete user flow and feature structure.
 Core Modules
 1. Authentication
 
-User signup
+* User signup
 
-Login
+* Login
 
-Password recovery
+* Password recovery
 
-Account-based dashboard access
+* Account-based dashboard access
 
 2. Weather Dashboard
 
-Temperature display
+* Temperature display
 
-Humidity and wind information
+* Humidity and wind information
 
-Precipitation details
+* Precipitation details
 
-Location-based overview
+* Location-based overview
 
 This allows users to consider environmental conditions before planning cultivation.
 
 3. Land Rental Marketplace
 
-Location-based plot search
+* Location-based plot search
 
-Price filtering
+* Price filtering
 
-Plot size and facing details
+* Plot size and facing details
 
-Road width information
+* Road width information
 
-Owner details and contact option
+* Owner details and contact option
 
 Users can browse agricultural land and directly connect with landowners.
 
 4. Tools and Machinery Rental
 
-Equipment browsing interface
+* Equipment browsing interface
 
-Sorting and rating system
+* Sorting and rating system
 
-Detailed specifications (e.g., horsepower, torque, transmission type)
+* Detailed specifications (e.g., horsepower, torque, transmission type)
 
-Rental and purchase options
+* Rental and purchase options
 
 Example listings include tractors with technical specifications and monthly rental pricing.
 
 5. Crop Advisory
 
-Location selection
+* Location selection
 
-Crop selection
+* Crop selection
 
-Suitability indicator (scale from worst to best choice)
+* Suitability indicator (scale from worst to best choice)
 
-Yield potential overview
+* Yield potential overview
 
-Crop requirements:
-
-Soil type
-
-Temperature range
-
-Best cultivation months
-
-Common threats
-
-Water and humidity needs
+Crop requirements: Soil type, Temperature range, Best cultivation months, Common threats, Water and humidity needs
 
 This module is intended to evolve into a data-driven crop recommendation system in future development.
 
 6. Government Schemes Information
 
-Includes structured information on agricultural schemes such as:
-
-PM-KISAN
-
-PM-KMY
-
-PMFBY
-
-MISS
-
+Includes structured information on agricultural schemes such as: PM-KISAN, PM-KMY, PMFBY, MISS
 Each scheme provides description, financial support details, and eligibility overview.
 
 Problem Statement
 
 Farmers often rely on fragmented sources for:
 
-Land rental
+* Land rental
 
-Equipment access
+* Equipment access
 
-Crop planning
+* Crop planning
 
-Weather information
+* Weather information
 
-Government benefits
+* Government benefits
 
 AGROCROP aims to centralize these services within a single platform.
 
 Planned Technical Stack
 
-Frontend: Flutter or React
-Backend: Node.js or Django REST
-Database: PostgreSQL or MongoDB
-APIs: Weather API, geolocation services
-Future scope: Crop recommendation and yield prediction models
+1. Frontend: Flutter or React
+2. Backend: Node.js or Django REST
+3. Database: PostgreSQL or MongoDB
+4. APIs: Weather API, geolocation services
+5. Future scope: Crop recommendation and yield prediction models
 
-Future Development
-
-Backend API implementation
-
-Weather API integration
-
-Crop recommendation model
-
-Payment integration
-
-Multi-language support
 
 Deployment to cloud platform
 
